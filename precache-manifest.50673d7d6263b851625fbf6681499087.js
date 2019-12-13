@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9997c75afb0ec2163691cde15f6fe982",
+    "revision": "b6c527d6f334929fd4155797f1a9f9da",
     "url": "/draw.windy.github.io/index.html"
   },
   {
-    "revision": "ad0abac8d394598c92db",
+    "revision": "ae21af6e0da8b8750927",
     "url": "/draw.windy.github.io/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "b0489ecf159a630feb9e",
-    "url": "/draw.windy.github.io/static/js/2.0a69053b.chunk.js"
+    "revision": "ff7336d523cce37318e4",
+    "url": "/draw.windy.github.io/static/js/2.b67710b9.chunk.js"
   },
   {
-    "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/draw.windy.github.io/static/js/2.0a69053b.chunk.js.LICENSE"
+    "revision": "f032203ca460334c00de541c30a6078a",
+    "url": "/draw.windy.github.io/static/js/2.b67710b9.chunk.js.LICENSE"
   },
   {
-    "revision": "ad0abac8d394598c92db",
-    "url": "/draw.windy.github.io/static/js/main.3aafe9ca.chunk.js"
+    "revision": "ae21af6e0da8b8750927",
+    "url": "/draw.windy.github.io/static/js/main.e69f8ed8.chunk.js"
   },
   {
     "revision": "bdf22a6f5c56797de495",
