@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/draw.windy.github.io/static/css/main.7a0a3d80.chunk.css",
-    "main.js": "/draw.windy.github.io/static/js/main.6bbe6cb3.chunk.js",
-    "main.js.map": "/draw.windy.github.io/static/js/main.6bbe6cb3.chunk.js.map",
+    "main.css": "/draw.windy.github.io/static/css/main.6df703d2.chunk.css",
+    "main.js": "/draw.windy.github.io/static/js/main.d0383443.chunk.js",
+    "main.js.map": "/draw.windy.github.io/static/js/main.d0383443.chunk.js.map",
     "runtime-main.js": "/draw.windy.github.io/static/js/runtime-main.b4d83919.js",
     "runtime-main.js.map": "/draw.windy.github.io/static/js/runtime-main.b4d83919.js.map",
-    "static/css/2.dd93d953.chunk.css": "/draw.windy.github.io/static/css/2.dd93d953.chunk.css",
-    "static/js/2.b8a50385.chunk.js": "/draw.windy.github.io/static/js/2.b8a50385.chunk.js",
-    "static/js/2.b8a50385.chunk.js.map": "/draw.windy.github.io/static/js/2.b8a50385.chunk.js.map",
+    "static/css/2.df7b47fc.chunk.css": "/draw.windy.github.io/static/css/2.df7b47fc.chunk.css",
+    "static/js/2.a3d90f20.chunk.js": "/draw.windy.github.io/static/js/2.a3d90f20.chunk.js",
+    "static/js/2.a3d90f20.chunk.js.map": "/draw.windy.github.io/static/js/2.a3d90f20.chunk.js.map",
     "index.html": "/draw.windy.github.io/index.html",
-    "precache-manifest.cce91f88f3e2a596a8d38516d45a6e9e.js": "/draw.windy.github.io/precache-manifest.cce91f88f3e2a596a8d38516d45a6e9e.js",
+    "precache-manifest.b29253422af54e19e0640fa877cc86f7.js": "/draw.windy.github.io/precache-manifest.b29253422af54e19e0640fa877cc86f7.js",
     "service-worker.js": "/draw.windy.github.io/service-worker.js",
-    "static/css/2.dd93d953.chunk.css.map": "/draw.windy.github.io/static/css/2.dd93d953.chunk.css.map",
-    "static/css/main.7a0a3d80.chunk.css.map": "/draw.windy.github.io/static/css/main.7a0a3d80.chunk.css.map",
-    "static/js/2.b8a50385.chunk.js.LICENSE": "/draw.windy.github.io/static/js/2.b8a50385.chunk.js.LICENSE"
+    "static/css/2.df7b47fc.chunk.css.map": "/draw.windy.github.io/static/css/2.df7b47fc.chunk.css.map",
+    "static/css/main.6df703d2.chunk.css.map": "/draw.windy.github.io/static/css/main.6df703d2.chunk.css.map",
+    "static/js/2.a3d90f20.chunk.js.LICENSE": "/draw.windy.github.io/static/js/2.a3d90f20.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b4d83919.js",
-    "static/css/2.dd93d953.chunk.css",
-    "static/js/2.b8a50385.chunk.js",
-    "static/css/main.7a0a3d80.chunk.css",
-    "static/js/main.6bbe6cb3.chunk.js"
+    "static/css/2.df7b47fc.chunk.css",
+    "static/js/2.a3d90f20.chunk.js",
+    "static/css/main.6df703d2.chunk.css",
+    "static/js/main.d0383443.chunk.js"
   ]
 }
