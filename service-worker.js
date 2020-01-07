@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/draw.windy.github.io/precache-manifest.b6ba2661ede03f760b259b1f45c1273e.js"
+  "/draw.windy.github.io/precache-manifest.f92cecb5b45e82257d0f11cf0ade159e.js"
 );
 
 self.addEventListener('message', (event) => {
